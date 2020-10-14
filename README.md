@@ -3,6 +3,8 @@ Automating the process of Creating Snapshots in Oracle Managed - Oracle Analytic
 
 This code will create a snapshot using the prefix and timestamp and uploads the file to an Object Storage bucket.
 
+![alt text](https://github.com/prampradeep/OACSnapshotAutomation/blob/main/Images/AutoSnapshot.PNG?raw=true)
+
 ## Setup 
 
 After completing all the steps, Run the `CreateSnapshot.py` file which will create the snapshot file and uplaod to the specified Object Storage bucket as per your inputs.
